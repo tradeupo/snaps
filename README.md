@@ -1,4 +1,4 @@
-# MetaMask Snaps
+# MetaMask Snaps new
 
 Extend the functionality of MetaMask using
 [MetaMask Snaps](https://metamask.io/snaps/).
